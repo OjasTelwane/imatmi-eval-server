@@ -1,0 +1,10 @@
+{
+    "mongoURI":"mongodb+srv://admin:admin@actionplancluster.m0gc4.mongodb.net/team_earth?retryWrites=true&w=majority",
+    "jwtToken":"token",
+    "whitelist": [ "http://localhost:3000", "https://localhost:3000","https://imatmi-evaluation-server.herokuapp.com", "http://localhost:8080" ],
+    "AWS_BUCKET_NAME": "imatmi-evaluations",
+    "AWS_BUCKET_REGION": "us-east-1",
+    "AWS_ACCESS_KEY": "YOURxSUPERxACCESSxKEY",
+    "AWS_SECRET_KEY": "YOURxSUPERxSECRETxKEY",
+    "LOG_DIR":"app-logs"
+}
